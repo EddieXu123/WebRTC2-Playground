@@ -29,3 +29,4 @@ node-windows, which can be installed as follows:
 npm install -g node-windows
 node install_service.js
 ```
+
